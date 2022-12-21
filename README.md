@@ -59,9 +59,6 @@ $ python -m src.app
 以下進行詳細的功能說明。
 
 # Usage
-## QRCode
-![](https://i.imgur.com/OSMt6CE.png)
-
 ## 主選單
 輸入「主選單」，進入主畫面，主畫面中提供本 linebot 五個功能的快捷鍵。
 
